@@ -1,14 +1,14 @@
 [user]
-	name = Rubén García Serrano
-	email = onitaku@gmail.com
+  name = Rubén García Serrano
+  email = onitaku@gmail.com
 [github]
   user = onit4ku
 [core]
-	editor = nano
+  editor = nano
 [push]
-	default = simple
+  default = simple
 [web]
-	browser = google-chrome
+  browser = google-chrome
 [color]
   pager = true
   ui = auto
