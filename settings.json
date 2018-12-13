@@ -1,0 +1,20 @@
+{
+    "git.autofetch": true,
+    "window.zoomLevel": -0.4,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": false,
+    "git.confirmSync": false,
+    "explorer.confirmDragAndDrop": false,
+    "extensions.autoUpdate": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "eslint.enable": true,
+    // Enable/disable default JavaScript formatter (For Prettier)
+    "javascript.format.enable": false,
+    // Use 'prettier-eslint' instead of 'prettier'. Other settings will only be fallbacks in case they could not be inferred from eslint rules.
+    "prettier.eslintIntegration": true,
+    "editor.snippetSuggestions": "top",
+    // Number of spaces it should use per tab (Prettier)
+    "prettier.tabWidth": 4
+}
