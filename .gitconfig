@@ -8,7 +8,7 @@
 [push]
   default = simple
 [web]
-  browser = google-chrome
+  browser = firefox
 [color]
   pager = true
   ui = auto

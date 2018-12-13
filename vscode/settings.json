@@ -1,14 +1,17 @@
 {
+    // Git
     "git.autofetch": true,
+    "git.confirmSync": false,
+    // UI
     "window.zoomLevel": -0.4,
+    "explorer.confirmDragAndDrop": false,
+    // Editor
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.formatOnType": false,
-    "git.confirmSync": false,
-    "explorer.confirmDragAndDrop": false,
+    // Extensions
     "extensions.autoUpdate": true,
-    "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 1000,
+    // Linter
     "eslint.enable": true,
     // Enable/disable default JavaScript formatter (For Prettier)
     "javascript.format.enable": false,
@@ -18,3 +21,4 @@
     // Number of spaces it should use per tab (Prettier)
     "prettier.tabWidth": 4
 }
+

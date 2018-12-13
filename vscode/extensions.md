@@ -6,7 +6,6 @@ List extensions:
 
 My extensions:
 
-
     code --install-extension anseki.vscode-color
     code --install-extension Arjun.swagger-viewer
     code --install-extension CoenraadS.bracket-pair-colorizer-2
@@ -17,7 +16,6 @@ My extensions:
     code --install-extension eamodio.gitlens
     code --install-extension eg2.vscode-npm-script
     code --install-extension esbenp.prettier-vscode
-    code --install-extension k--kato.intellij-idea-keybindings
     code --install-extension mikestead.dotenv
     code --install-extension mrmlnc.vscode-apache
     code --install-extension msjsdiag.debugger-for-chrome
