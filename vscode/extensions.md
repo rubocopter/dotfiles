@@ -15,20 +15,23 @@ My extensions:
     code --install-extension dzannotti.vscode-babel-coloring
     code --install-extension eamodio.gitlens
     code --install-extension eg2.vscode-npm-script
+    code --install-extension Equinusocio.vsc-material-theme
     code --install-extension esbenp.prettier-vscode
+    code --install-extension johnpapa.vscode-peacock
     code --install-extension mikestead.dotenv
     code --install-extension mrmlnc.vscode-apache
     code --install-extension PeterJausovec.vscode-docker
     code --install-extension redhat.java
     code --install-extension redhat.vscode-yaml
-    code --install-extension robertohuertasm.vscode-icons
+    code --install-extension rifi2k.format-html-in-php
     code --install-extension sidneys1.gitconfig
     code --install-extension tht13.html-preview-vscode
     code --install-extension tombonnike.vscode-status-bar-format-toggle
+    code --install-extension VisualStudioExptTeam.vscodeintellicode
     code --install-extension vscjava.vscode-java-debug
     code --install-extension vscjava.vscode-java-dependency
     code --install-extension vscjava.vscode-java-pack
     code --install-extension vscjava.vscode-java-test
     code --install-extension vscjava.vscode-maven
+    code --install-extension vscode-icons-team.vscode-icons
     code --install-extension WallabyJs.quokka-vscode
-
