@@ -1,30 +1,41 @@
 # Visual Studio Code extensions
 
-List extensions:
+## List extensions Unix:
+    
+    code --list-extensions | xargs -L 1 echo code --install-extension       
+        
+## List extensions Windows:
 
-    code --list-extensions | xargs -L 1 echo code --install-extension
-
-My extensions:
-
+    code --list-extensions | % { "code --install-extension $_" }        
+    
+## My extensions:
+    
     code --install-extension anseki.vscode-color
     code --install-extension Arjun.swagger-viewer
     code --install-extension CoenraadS.bracket-pair-colorizer-2
-    code --install-extension DavidAnson.vscode-markdownlint
+    code --install-extension DavidAnson.vscode-markdownlint    
     code --install-extension dbaeumer.vscode-eslint
     code --install-extension donjayamanne.githistory
-    code --install-extension dzannotti.vscode-babel-coloring
+    code --install-extension dzannotti.vscode-babel-coloring   
     code --install-extension eamodio.gitlens
     code --install-extension eg2.vscode-npm-script
+    code --install-extension EliverLara.andromeda
+    code --install-extension Equinusocio.vsc-community-material-theme
     code --install-extension Equinusocio.vsc-material-theme
+    code --install-extension equinusocio.vsc-material-theme-icons
     code --install-extension esbenp.prettier-vscode
     code --install-extension johnpapa.vscode-peacock
     code --install-extension mikestead.dotenv
     code --install-extension mrmlnc.vscode-apache
-    code --install-extension PeterJausovec.vscode-docker
+    code --install-extension ms-vscode-remote.remote-containers
+    code --install-extension ms-vscode-remote.remote-wsl
+    code --install-extension ms-vscode.vscode-typescript-tslint-plugin
+    code --install-extension msjsdiag.debugger-for-chrome
     code --install-extension redhat.java
     code --install-extension redhat.vscode-yaml
     code --install-extension rifi2k.format-html-in-php
     code --install-extension sidneys1.gitconfig
+    code --install-extension streetsidesoftware.code-spell-checker
     code --install-extension tht13.html-preview-vscode
     code --install-extension tombonnike.vscode-status-bar-format-toggle
     code --install-extension VisualStudioExptTeam.vscodeintellicode
