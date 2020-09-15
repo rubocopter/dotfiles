@@ -30,6 +30,7 @@
     code --install-extension jonwolfe.language-polymer
     code --install-extension justinribeiro.Polymer2Snippets
     code --install-extension kokororin.vscode-phpfmt
+    code --install-extension lior-chamla.google-fonts
     code --install-extension magicstack.MagicPython
     code --install-extension mikestead.dotenv
     code --install-extension mrmlnc.vscode-apache
@@ -65,3 +66,4 @@
     code --install-extension wholroyd.jinja
     code --install-extension zag7juuw4mfdvt4fpmfiocbzlwtsuh4t2udzl4sda7kdgyor6k4a.eslint-plugin-linting-lightning
     code --install-extension ZainChen.json
+
