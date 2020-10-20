@@ -83,3 +83,9 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#mis alias
+alias work="cd /home/rgarcia/Proyectos"
+alias update="sudo apt update -y && sudo apt upgrade -y && sudo apt autoremove -y && sudo apt autoclean -y  "
+alias remotod="teamviewer -daemon stop"
+alias remotou="teamviewer -daemon start"
+alias remotoi="teamviewer -info"
