@@ -64,3 +64,4 @@
     code --install-extension wholroyd.jinja
     code --install-extension zag7juuw4mfdvt4fpmfiocbzlwtsuh4t2udzl4sda7kdgyor6k4a.eslint-plugin-linting-lightning
     code --install-extension ZainChen.json
+    
