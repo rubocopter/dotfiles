@@ -35,8 +35,10 @@
     code --install-extension lior-chamla.google-fonts
     code --install-extension magicstack.MagicPython
     code --install-extension mikestead.dotenv
+    code --install-extension mohsen1.react-javascript-to-typescript-transform-vscode
     code --install-extension mrmlnc.vscode-apache
     code --install-extension ms-azuretools.vscode-docker
+    code --install-extension MS-CEINTL.vscode-language-pack-es
     code --install-extension ms-python.python
     code --install-extension ms-python.vscode-pylance
     code --install-extension ms-toolsai.jupyter
