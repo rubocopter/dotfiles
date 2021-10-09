@@ -13,6 +13,7 @@
     code --install-extension adashen.vscode-tomcat
     code --install-extension anseki.vscode-color
     code --install-extension Arjun.swagger-viewer
+    code --install-extension batisteo.vscode-django
     code --install-extension christian-kohler.npm-intellisense
     code --install-extension CoenraadS.bracket-pair-colorizer-2
     code --install-extension DavidAnson.vscode-markdownlint
@@ -22,6 +23,7 @@
     code --install-extension dsznajder.es7-react-js-snippets
     code --install-extension dzannotti.vscode-babel-coloring
     code --install-extension eamodio.gitlens
+    code --install-extension ecmel.vscode-html-css
     code --install-extension eg2.vscode-npm-script
     code --install-extension EliverLara.andromeda
     code --install-extension esbenp.prettier-vscode
@@ -42,6 +44,7 @@
     code --install-extension ms-python.python
     code --install-extension ms-python.vscode-pylance
     code --install-extension ms-toolsai.jupyter
+    code --install-extension ms-toolsai.jupyter-keymap
     code --install-extension ms-vscode-remote.remote-containers
     code --install-extension ms-vscode-remote.remote-wsl
     code --install-extension ms-vscode.vscode-typescript-tslint-plugin
@@ -62,6 +65,7 @@
     code --install-extension TheNouillet.symfony-vscode
     code --install-extension tht13.html-preview-vscode
     code --install-extension tombonnike.vscode-status-bar-format-toggle
+    code --install-extension VisualStudioExptTeam.vscodeintellicode
     code --install-extension vscode-icons-team.vscode-icons
     code --install-extension wholroyd.jinja
     code --install-extension zag7juuw4mfdvt4fpmfiocbzlwtsuh4t2udzl4sda7kdgyor6k4a.eslint-plugin-linting-lightning
