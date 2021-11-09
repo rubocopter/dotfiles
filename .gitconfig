@@ -1,6 +1,6 @@
 [user]
-	name = Rubén García Serrano
-	email = onitaku@gmail.com
+  name = Rubén García Serrano
+  email = onitaku@gmail.com
 [github]
   user = onit4ku
 [core]
@@ -13,9 +13,9 @@
   # Don't consider trailing space change as a cause for merge conflicts
   whitespace = -trailing-space
 [push]
-	default = simple
+  default = simple
 [web]
-	browser = firefox
+  browser = firefox
 [alias]
   # List available aliases
   aliases = !git config --get-regexp alias | sed -re 's/alias\\.(\\S*)\\s(.*)$/\\1 = \\2/g'
