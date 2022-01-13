@@ -2,12 +2,12 @@
 export PATH=$HOME/bin:/usr/local/bin:~/.composer/vendor/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-  export ZSH=/home/rgarcia/.oh-my-zsh
+  export ZSH=/home/onitaku/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="kafeitu"
+ZSH_THEME="materialshell"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -84,7 +84,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #mis alias
-alias work="cd /home/rgarcia/Proyectos"
+alias work="cd /home/onitaku/Proyectos"
 alias update="sudo apt update -y && sudo apt upgrade -y && sudo apt autoremove -y && sudo apt autoclean -y  "
 alias remotod="teamviewer -daemon stop"
 alias remotou="teamviewer -daemon start"
