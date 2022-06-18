@@ -7,7 +7,7 @@ export PATH=$HOME/bin:/usr/local/bin:~/.composer/vendor/bin:$PATH
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="materialshell"
+ZSH_THEME="half-life"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -89,3 +89,10 @@ alias update="sudo apt update -y && sudo apt upgrade -y && sudo apt autoremove -
 alias remotod="teamviewer -daemon stop"
 alias remotou="teamviewer -daemon start"
 alias remotoi="teamviewer -info"
+alias localreset="sudo service mysql start && sudo service php7.4-fpm start && sudo service nginx restart"
+
+export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
