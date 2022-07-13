@@ -115,6 +115,9 @@
   default = upstream
   # When pushing, also push tags whose commit-ishs are now reachable upstream
   followTags = true
+  # With the newest version of Git 2.37.0, you can run just "git push" to push new branches. No more "--set-upstream origin". Enable with:
+  # git config --global --add --bool push.autoSetupRemote true
+	autoSetupRemote = true
 # [rebase]
   # Rebase advanced usage.
   # Automagically reorder and prefix your commands while doing an interactive
