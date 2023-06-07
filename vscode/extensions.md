@@ -14,6 +14,9 @@
     code --install-extension firefox-devtools.vscode-firefox-debug
     code --install-extension marcostazi.VS-code-drupal
     code --install-extension MS-CEINTL.vscode-language-pack-es
+    code --install-extension ms-python.black-formatter
+    code --install-extension ms-python.python
+    code --install-extension ms-python.vscode-pylance
     code --install-extension msjsdiag.vscode-react-native
     code --install-extension NuclleaR.vscode-extension-auto-import
     code --install-extension PKief.material-icon-theme
