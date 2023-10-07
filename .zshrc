@@ -83,13 +83,8 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-#mis alias
-alias work="cd /home/onitaku/Proyectos"
+
 alias update="sudo apt update -y && sudo apt upgrade -y && sudo apt autoremove -y && sudo apt autoclean -y  "
-alias remotod="teamviewer -daemon stop"
-alias remotou="teamviewer -daemon start"
-alias remotoi="teamviewer -info"
-alias localreset="sudo service mysql start && sudo service php7.4-fpm start && sudo service nginx restart"
 
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
