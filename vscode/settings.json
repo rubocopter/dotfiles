@@ -48,5 +48,6 @@
         }
     },
     "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
-    "php.validate.executablePath": "/usr/bin/php"
+    "php.validate.executablePath": "/usr/bin/php",
+    "react-native-tools.showUserTips": false
 }
