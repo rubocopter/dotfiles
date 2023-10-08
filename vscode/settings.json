@@ -3,7 +3,7 @@
     "git.autofetch": true,
     "git.confirmSync": false,
     // UI
-    "window.zoomLevel": -0.4,
+    "window.zoomLevel": -0.0,
     "explorer.confirmDragAndDrop": false,
     // Editor
     "editor.formatOnPaste": true,
@@ -19,6 +19,34 @@
     "prettier.eslintIntegration": true,
     "editor.snippetSuggestions": "top",
     // Number of spaces it should use per tab (Prettier)
-    "prettier.tabWidth": 4
+    "prettier.tabWidth": 4,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.colorTheme": "After Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Ubuntu (WSL)": {
+            "path": "C:\\Windows\\System32\\wsl.exe",
+            "args": [
+                "-d",
+                "Ubuntu"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+    "php.validate.executablePath": "/usr/bin/php"
 }
-
