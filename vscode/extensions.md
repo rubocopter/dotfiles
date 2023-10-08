@@ -10,9 +10,12 @@
     
 ## My extensions:
 
+    code --install-extension ms-vscode-remote.remote-wsl
+    
+##  Extensions installed on WSL: Ubuntu:
+
+    code --install-extension bmewburn.vscode-intelephense-client
     code --install-extension dbaeumer.vscode-eslint
-    code --install-extension firefox-devtools.vscode-firefox-debug
-    code --install-extension marcostazi.VS-code-drupal
     code --install-extension MS-CEINTL.vscode-language-pack-es
     code --install-extension ms-python.black-formatter
     code --install-extension ms-python.python
@@ -34,6 +37,6 @@
     code --install-extension tombonnike.vscode-status-bar-format-toggle
     code --install-extension VisualStudioExptTeam.intellicode-api-usage-examples
     code --install-extension VisualStudioExptTeam.vscodeintellicode
+    code --install-extension xdebug.php-debug
     code --install-extension zag7juuw4mfdvt4fpmfiocbzlwtsuh4t2udzl4sda7kdgyor6k4a.eslint-plugin-linting-lightning
     code --install-extension ZainChen.json
-
